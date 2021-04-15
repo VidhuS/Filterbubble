@@ -15,8 +15,5 @@ Our project aims to help user identify and get out of filter bubble created "unk
 * The second part of data pipleline takes input from the user and returns either a cumulative or discreete analysis of the filter bubble created by the news source , i.e Twitter user id.
 
 ## System Architecture 
-![Multinomial Naive Bayes](https://i.imgur.com/2gaK9iO.png)
-![Softmax](https://i.imgur.com/R2XHiuB.png)
-![SVM](https://i.imgur.com/dvfwxY8.png)
-![Average of three](https://i.imgur.com/1WtrPRv.png)
+![System Architecture](https://i.imgur.com/dHyEcFB.png)
 
