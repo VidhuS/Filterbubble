@@ -41,16 +41,18 @@ The project uses the News API to search and extract content from news content. T
 
 ## Github framework
 
-1.Back-end Folder
+1. Back-end Folder
 
-1.1 SpringBoot
-SpringBoot provides logical operations and database support for filterbubble.ga, and passes information through the API.  All Springboot code has been provided in this folder.
+   1.1  SpringBoot
+     SpringBoot provides logical operations and database support for filterbubble.ga, and passes information through the API.  All Springboot code has been provided in this folder.
 
-1.2 Flask
-Flask provides analysis support for filterbubble.ga. This backend mainly integrates with the Twitter analytics module and transfers data via API. The flask used in the project is provided in this folder.
+   1.2  Flask
+     Flask provides analysis support for filterbubble.ga. This backend mainly integrates with the Twitter analytics module and transfers data via API. The flask used in the project   is provided in this folder.
 
-2. Data Analysis
-This folder stores code and files related to data (tweet) analysis, including machine learning models and Jupyter Notebook files.
+ 2. Data Analysis Folder
 
-3. Front-end
-This folder stores the static web files of filterbubble.ga, including the html, css, js and image files used.
+     This folder stores code and files related to data (tweet) analysis, including machine learning models and Jupyter Notebook files.
+
+ 3. Front-end Folder
+
+     This folder stores the static web files of filterbubble.ga, including the html, css, js and image files used.
