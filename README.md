@@ -1,5 +1,17 @@
 # FIT5120-Project
-Our project aims to help user identify and get out of filter bubble created "unknowingly" through digital media interactions.
+Our project aims to help user identify and get out of filter bubble of a user and helps them get out of it
+
+# Key Features are as follows - 
+* Filter bubble visualization based on Twitter handle name 
+* Comparative analysis and visualization for two or more Twitter handle name. 
+* Present Top 10 trending topics in a Demographic region.
+* Present top users (with more than 1M followers) and their tweets for a searched topic .
+* Filter bubble visualization for users mentioned above.
+
+Please visit the website at https://filterbubble.ga/home.html   Password- alan123
+
+![image](https://user-images.githubusercontent.com/43739144/123903585-4fbb1980-d9b2-11eb-9401-e06b9f849267.png)
+
 
 ## BackendV1.1 
  
