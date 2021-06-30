@@ -10,7 +10,6 @@ Our project aims to help user identify and get out of filter bubble of a user an
 
 Please visit the website at https://filterbubble.ga/home.html   Password- alan123
 
-![image](https://user-images.githubusercontent.com/43739144/123903585-4fbb1980-d9b2-11eb-9401-e06b9f849267.png)
 
 
 ## BackendV1.1 
