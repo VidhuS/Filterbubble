@@ -67,3 +67,18 @@ The project uses the News API to search and extract content from news content. T
  3. Front-end Folder
 
      This folder stores the static web files of filterbubble.ga, including the html, css, js and image files used.
+     
+     
+ ## Product Pictures
+ 
+ #### DETAILED ANALYSIS
+ ![image](https://user-images.githubusercontent.com/43739144/134343483-658a2af4-0bbb-49d3-a21c-6880c119cd40.png)
+
+#### TOP TWEETS IN A TOPIC
+![image](https://user-images.githubusercontent.com/43739144/134343514-443f2023-4e07-4ac4-bbee-e017c29783a3.png)
+
+
+#### TOP TRENDING 
+![image](https://user-images.githubusercontent.com/43739144/134343532-65aef872-6860-4b6a-8209-39ef3b5c34cb.png)
+
+
